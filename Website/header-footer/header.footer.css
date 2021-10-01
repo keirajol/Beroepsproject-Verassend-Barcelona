@@ -29,10 +29,32 @@
     background: #FCD739;
     margin-top: 50px;
     margin-bottom: 0;
+    display: flex;
+    flex-direction: row;
 }
 
 .logofooter {
     width: 200px;
     margin-left: 50px;
-    margin-top: 40px;
+    margin-top: 50px;
+    margin-right: 60px;
 }
+
+.footerhead {
+    
+    display: inline-block;
+}
+
+.textfooter {
+    padding-top: 30px;
+    padding-left: 50px;
+    
+}
+
+#route {
+    
+    height: 100px;
+    padding-left: 100px;
+}
+
+
